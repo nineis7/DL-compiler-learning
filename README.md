@@ -30,7 +30,7 @@ opu compiler code
 
 
 
-![DLcompiler](/Users/nineis/Documents/GitHub/DL-compiler-learning/asserts/pics/DLcompiler.png)
+![DLcompiler](/asserts/pics/DLcompiler.png)
 
 
 
